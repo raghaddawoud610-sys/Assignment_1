@@ -15,4 +15,4 @@ else
     finalPrice = billAmount;
 }
 
-Console.Write($"Final Price: =( finalPrice)");
+Console.Write($"Final Price: ={finalPrice}");
